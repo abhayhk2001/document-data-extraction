@@ -1,0 +1,3 @@
+company:White-Hayes
+invoice date:DATE 23-04-2015
+Total:TOTAL $540.00
